@@ -81,8 +81,11 @@ c:/Users/user_name/.ssh
 ```
 git clone git@github.com:zambala64/temple.git . 
 ```
+
 ![image](https://walrus-app-f22gd.ondigitalocean.app/images/ssh-01.jpg)
 
+
+查詢、複製 SSH KEY 到 github 
 ![image2](https://walrus-app-f22gd.ondigitalocean.app/images/ssy-02.png)
 
 
