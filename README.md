@@ -86,7 +86,7 @@ git clone git@github.com:zambala64/temple.git .
 
 
 查詢、複製 SSH KEY 到 github 
-![image2](https://walrus-app-f22gd.ondigitalocean.app/images/ssy-02.png)
+![image2](https://walrus-app-f22gd.ondigitalocean.app/images/ssy-02.jpg)
 
 
 #### git 指令：local端電腦(網站資料) 上傳到 Git 
